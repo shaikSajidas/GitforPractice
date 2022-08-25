@@ -12,3 +12,5 @@ added new line
 
 added another line
 
+git commands
+
